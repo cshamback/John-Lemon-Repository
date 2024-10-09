@@ -1,4 +1,4 @@
 # John Lemon Repository
  CSC-417-101
 
-I don't know what to say here.
+Repository for John Lemon II - indie horror game, but make it homework.
